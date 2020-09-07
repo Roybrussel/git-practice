@@ -1,3 +1,4 @@
 Name: Roy-Arne Brussel
+City: Almere
 Age: 27
 Favorite Color: Blue
